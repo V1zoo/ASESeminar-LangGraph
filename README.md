@@ -8,6 +8,8 @@ Install LangGraph:
 
 ```
 pip install -U langgraph
+pip install -U requests
+pip install -U typing_extensions
 ```
 
 ### 3. Set OpenAI-Key in asegraph.py
